@@ -1,0 +1,49 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.main img {
+    width: 200px;
+    height: 200px;
+}
+
+div.pd {
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    /* margin: 7% auto; */
+    /* padding: 30px 32px 19px 35px; */
+    /* border: 3px dashed black; */
+    /* border-right: 3px dashed black; */
+}
+
+.satu,
+.dua,
+.tiga {
+    width: 75px;
+    height: 75px;
+}
+
+.container {
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+}
+
+.satu {
+    background-color: red;
+}
+
+.dua {
+    background-color: green;
+    float: right;
+}
+
+.tiga {
+    background-color: blue;
+}
